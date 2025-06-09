@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi there! I'm a Computer Science student at the University of Zimbabwe 🎓 with a deep passion for networking 🌐, cybersecurity 🔐, and machine learning 🤖. <br>I love exploring how tech can solve real-world problems — from securing systems and tackling TryHackMe challenges 🛡️ to building smart ML models that make a difference 📊. <br>I'm especially curious about how AI and security intersect in areas like banking and finance 💼. <br>Always learning, always building  and always up for a good tech conversation! 💬✨<br><br>
+👋 Hi there! I'm a Computer Science student at the University of Zimbabwe 🎓 with a deep passion for networking 🌐, cybersecurity 🔐, AI, and machine learning 🤖. <br>I love exploring how tech can solve real-world problems — from securing systems and tackling TryHackMe challenges 🛡️ to building smart ML models that make a difference 📊. <br>I'm especially curious about how AI and security intersect in areas like banking and finance 💼. <br>Always learning, always building  and always up for a good tech conversation! 💬✨<br><br>
 
 
 ## 🌐 Socials:
